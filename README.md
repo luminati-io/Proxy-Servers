@@ -1,6 +1,6 @@
 # Bright Data's Proxy Servers
 
-[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.com/proxy-types/dedicated-proxies) 
+[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.com/proxy-types/proxy-servers) 
 
 ## Overview
 Experience uninterupted scraping with Bright Data's [Proxy servers](https://brightdata.com/proxy-types/proxy-servers), designed to provide precise targeting, unmatched stability, and rapid response times.
