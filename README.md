@@ -3,7 +3,7 @@
 [![Promo](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.com/proxy-types/dedicated-proxies) 
 
 ## Overview
-Experience uninterupted scraping with Bright Data's [Proxy Servers](https://brightdata.com/proxy-types/proxy-servers), designed to provide precise targeting, unmatched stability, and rapid response times.
+Experience uninterupted scraping with Bright Data's [Proxy servers](https://brightdata.com/proxy-types/proxy-servers), designed to provide precise targeting, unmatched stability, and rapid response times.
 
 - **100M+ Dedicated IPs**
 - **Sticky and rotating sessions**
