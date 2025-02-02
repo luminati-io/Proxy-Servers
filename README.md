@@ -1,6 +1,6 @@
 # Bright Data's Proxy Servers
 
-[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.com/proxy-types/proxy-servers) 
+[![Promo](https://github.com/luminati-io/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo.png)](https://brightdata.com/proxy-types/proxy-servers) 
 
 ## Overview
 Experience uninterupted scraping with Bright Data's [Proxy servers](https://brightdata.com/proxy-types/proxy-servers), designed to provide precise targeting, unmatched stability, and rapid response times.
@@ -37,6 +37,8 @@ Bright Data is the industry leader for proxies, serving over 20,000 customers.
 - **7M mobile proxy IPs**
 - **3G/4G/5G mobile IPs**
 - **24/7 global support**
+
+[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.com/proxy-types/proxy-servers) 
 
 ## Key Features
 - **Global Coverage**: Proxy Servers available in [195 countries](https://brightdata.com/locations).
